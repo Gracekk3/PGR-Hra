@@ -14,7 +14,7 @@ Hra je založena na rychlém a přesném ničení dynamicky se objevujících c�
 *   **Gridshot/Flicking:** Rychlé přepínání mezi statickými terči s důrazem na hrubou rychlost a svalovou paměť.
 *   **Tracking:** Udržení zaměřovače na plynule se pohybujícím terči s nepredikovatelnými změnami směru.
 *   **Micro-adjustments:** Drobné, extrémně přesné pohyby na malé a vzdálené terče (simulace střelby na hlavu na velkou vzdálenost).
-*   **Analytika:** Po každém scénáři hráč vidí své statistiky (přesnost v %, reakční doba v ms, skóre).
+*   **Analytika:** Po každém scénáři hráč vidí své statistiky (přesnost v %, skóre).
 
 **Cíle hráče:**
 Cílem hráče je překonávat svá osobní maxima (High Scores), udržovat konzistentní přesnost (ideálně nad 90 %) a analyzovat svůj progres v čase, aby tyto dovednosti přenesl do svých hlavních her.
