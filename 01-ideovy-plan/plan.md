@@ -19,7 +19,7 @@ Hra je založena na rychlém a přesném ničení dynamicky se objevujících c�
 **Cíle hráče:**
 Cílem hráče je překonávat svá osobní maxima (High Scores), udržovat konzistentní přesnost (ideálně nad 90 %) a analyzovat svůj progres v čase, aby tyto dovednosti přenesl do svých hlavních her.
 
-## Popis audiovizuálu
+## Popis audia a vizuálu
 **Vizuál:** Striktně minimalistický a funkční. Cílem je nulová vizuální latence a maximální čitelnost. Prostředí (stěny, podlaha) bude v tmavě šedých nebo neutrálních texturách bez rušivých elementů. Terče budou využívat vysoce kontrastní neonové barvy (např. tyrkysová, magenta, jasně žlutá), aby okamžitě upoutaly periferní vidění. 
 **Audio:** Ostrá, uspokojující zvuková odezva (hit sound) při každém úspěšném zničení terče, která psychologicky odměňuje hráče. Žádná rušivá hudba během tréninku.
 
