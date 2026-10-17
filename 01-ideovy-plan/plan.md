@@ -25,7 +25,7 @@ Cílem hráče je překonávat svá osobní maxima (High Scores), udržovat konz
 
 ## Chystané použité technologie
 *   **Herní Engine:** Unity (využití jazyka C# pro skriptování herní logiky a pohybu terčů) *nebo* Godot.
-*   **Ukládání dat:** Lokální JSON soubory pro ukládání historie hráčových statistik a high scores.
+*   **Ukládání dat:** Online SQL databáze napojená přes jednoduchý PHP backend. Slouží pro odesílání skóre ze hry a stahování aktuálního online žebříčku
 
 ## Hypotézy (k potvrzení/vyvrácení po releasu)
 1. **Hypotéza o náročnosti režimů:** Z dostupných herních režimů bude nejnáročnější režim "Micro-adjustments". Očekávám, že v tomto režimu dosáhnou hráči plošně nejnižší průměrné přesnosti (accuracy) ve srovnání s režimem "Gridshot", protože vyžaduje mnohem jemnější motoriku myši, na kterou běžní uživatelé nejsou zvyklí.
